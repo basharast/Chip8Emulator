@@ -1,0 +1,5 @@
+MainPackage=B:\UWPChip8\UWPChip8\UWPChip8\bin\ARM\Release\CHIP-8 Emulator_1.0.5.0_ARM.appx
+ResourcePack=B:\UWPChip8\UWPChip8\UWPChip8\bin\ARM\Release\CHIP-8 Emulator_1.0.5.0_scale-100.appx
+ResourcePack=B:\UWPChip8\UWPChip8\UWPChip8\bin\ARM\Release\CHIP-8 Emulator_1.0.5.0_scale-125.appx
+ResourcePack=B:\UWPChip8\UWPChip8\UWPChip8\bin\ARM\Release\CHIP-8 Emulator_1.0.5.0_scale-150.appx
+ResourcePack=B:\UWPChip8\UWPChip8\UWPChip8\bin\ARM\Release\CHIP-8 Emulator_1.0.5.0_scale-400.appx

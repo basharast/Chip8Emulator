@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <Source>C:\Users\User\Desktop\chip-8.png</Source>
+    <SmallTileSource>C:\Users\User\Desktop\chip-8.png</SmallTileSource>
+    <MediumTileSource>C:\Users\User\Desktop\chip-8.png</MediumTileSource>
+    <WideTileSource>C:\Users\User\Desktop\chip-8.png</WideTileSource>
+    <LargeTileSource>C:\Users\User\Desktop\chip-8.png</LargeTileSource>
+    <AppIconSource>C:\Users\User\Desktop\chip-8.png</AppIconSource>
+    <SplashScreenSource>C:\Users\User\Desktop\chip-8.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\User\Desktop\chip-8.png</PackageLogoSource>
+    <BadgeLogoSource>C:\Users\User\Desktop\chip-8.png</BadgeLogoSource>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30f105c9-681e-420b-a277-7c086ead8a4e</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>

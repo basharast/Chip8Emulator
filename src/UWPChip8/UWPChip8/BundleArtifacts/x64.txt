@@ -1,0 +1,1 @@
+MainPackage=B:\UWPChip8\UWPChip8\UWPChip8\bin\x64\Release\CHIP-8 Emulator_1.0.5.0_x64.appx
