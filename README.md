@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/logo.png" width="176"><br>
-  <b>Enhanced CHIP-8 Emulator based on UWPChip8 by Jody Andrews</b><br>
+  <b>Enhanced CHIP-8 Emulator</b><br>
   <a href="./src">Source</a> |
   <a href="https://github.com/JodyAndrews/UWPChip8">Original Project</a> 
   <br><br>
